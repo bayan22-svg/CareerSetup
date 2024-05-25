@@ -35,10 +35,6 @@
     <link href="./styles/css/base.css" rel="stylesheet">
     <link href="styles/Loadingstyle.css" rel="stylesheet" />
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuMJDXIPhGVIIBgK3njpXHWP_hI6_zVms&callback=initMap">
-    </script>
-
-
 
 
 
